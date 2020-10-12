@@ -684,7 +684,7 @@ function (key, values) {
 	"ok" : 1
 }
 ```
-
+Los valores de cantidad son identicos al punto 8
 ### 17 Obtener la información de los clientes que hayan gastado 100000 en una orden junto con el número de orden.
 Consulta modificada para importes mayores a 1000
 
